@@ -8,8 +8,8 @@
   inputs.flakeNimbleLib.inputs.nixpkgs.follows = "nixpkgs";
   
   inputs.src-servclip-master.flake = false;
+  inputs.src-servclip-master.ref   = "refs/heads/master";
   inputs.src-servclip-master.owner = "lurlo";
-  inputs.src-servclip-master.ref   = "master";
   inputs.src-servclip-master.repo  = "servclip";
   inputs.src-servclip-master.type  = "gitlab";
   
