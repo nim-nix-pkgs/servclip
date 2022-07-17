@@ -374,11 +374,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1657150530,
-        "narHash": "sha256-CESeL68TITbNu2J5LRlEUrAKapC7i4+nILjPaETUGCc=",
+        "lastModified": 1657154918,
+        "narHash": "sha256-J1EtQ5r3dIFHavbCmy8/KO5ErcSW4v5eMTgtTMkdEi0=",
         "owner": "nim-nix-pkgs",
         "repo": "servclip",
-        "rev": "026a795624eac93888c8faa0b122ab230c194ac9",
+        "rev": "89f6f768c929cc57b0f41ffc971da99fce42f91c",
         "type": "github"
       },
       "original": {
