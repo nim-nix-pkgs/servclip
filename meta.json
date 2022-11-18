@@ -68,8 +68,8 @@
   "heads": [
     {
       "name": "servclip",
-      "version": "0.3.2",
-      "author": "Luciano Lorenzo",
+      "version": "0.4.0",
+      "author": "Thiago Navarro",
       "desc": "Manage your clipboard remotely",
       "license": "MIT",
       "skipDirs": [],
@@ -91,6 +91,13 @@
         },
         {
           "name": "jester",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny"
+          }
+        },
+        {
+          "name": "cliptomania",
           "str": "any version",
           "ver": {
             "kind": "verAny"
